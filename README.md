@@ -1,4 +1,4 @@
-# quantifier-sequences-java
+
 # Quantifier Sequence Evaluator (Java)
 
 This project is a Java console program that:
